@@ -119,7 +119,7 @@ if($continue == True) {
                         </style>
                         <style media="screen" type="text/css">
                             .mainContainer.has-image {
-                                background: url(https://londonyounglabour.co.uk/wp-content/uploads/2017/08/LYL-Barnet.jpg);
+                                background: url(https://viljo.me/local-young-labour/assets/LYL-Barnet.jpg);
                                 background-blend-mode: multiply;
                                 background-color: rgba(0, 0, 0, 0.5);
                             }
